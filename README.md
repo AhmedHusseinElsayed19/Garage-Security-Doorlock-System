@@ -8,3 +8,8 @@ one of your three trials before system locking.
 
 You can erase all the numbers and re-enter the password again before the fourth digit by pressing C if they are incorrect .
 
+
+1111 for normal password
+
+2112 for admin password
+
